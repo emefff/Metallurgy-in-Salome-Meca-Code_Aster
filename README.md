@@ -23,7 +23,7 @@ As cooling rates are largest on the specimen surface, we can expect some martens
 ![martensite_240s](https://user-images.githubusercontent.com/89903493/231741808-026199d6-ec4a-4149-91b6-138a4ab94ec5.png)
 
 The hardness distribution result for this steel shows a slightly increased hardness at the surface:
-![hardness_240s](https://user-images.githubusercontent.com/89903493/231742019-f0c80dc3-e767-46ef-94e1-43b8659d65ef.png)
+![hardness_240s](https://user-images.githubusercontent.com/89903493/231746281-4c68f0c6-04c1-4d6b-b66e-faa5ef51e57b.png)
 
 Due to the steel's nature, do not expect any wonders there.
 
