@@ -1,7 +1,7 @@
 # Metallurgy-in-Salome-Meca-Code_Aster
 Metallurgy-in-Salome-Meca-Code_Aster
 
-The metallurgy of steels may also be simulated in SM/CA. Below example is a modification of test case MTLP103a. We simulate the quenching of a cylinder with D=100mm and H=100mm. The steel data is from the test case with the french 16MND5, a pressure vessel steel. From the TTT-diagram data, we may expect a bainitic microstructure, just as advertised for this steel. The cylindrical specimen is left in air for 14s and subsequently  quenched in water, its initial temperature is 906°C. The tricky part in setting up such a simulation is setting up the input data from the TTT-diagram for a new steel. There is no way around properly digitzing the diagram, as they are usually not super-accurate in the first place. A second complication is the huge amount of data created, the field of CREA_META is comprised of vectors with 9 components
+The metallurgy of steels may also be simulated in SM/CA. Below example is a modification of test case MTLP103a. We simulate the quenching of a cylinder with D=100mm and H=100mm. Steel data is from the test case with 16MND5, a french pressure vessel steel. From the TTT-diagram data, we may expect a bainitic microstructure, just as advertised for this steel. The cylindrical specimen is left in air for 14s and subsequently  quenched in water, its initial temperature is 906°C. The tricky part in setting up such a simulation is setting up the input data from the TTT-diagram for a new steel. There is no way around properly digitzing the diagram, as they are usually not super-accurate in the first place. A second complication is the huge amount of data created, the field of CREA_META is comprised of vectors with 9 components
 
 V1 : FERRITE
 V2 : PERLITE
