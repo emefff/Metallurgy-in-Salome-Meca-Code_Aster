@@ -29,4 +29,4 @@ Due to the steel's nature, do not expect any wonders there.
 
 We noticed that accuracy of the TRC data is VERY important for the results. In an industrial setting, some calibration might be necessary.
 
-Further refinements may be: adding the heating of the specimen to the simulation (squeeze in an additional first stage@beginning), for a case hardening steel we'd need two materials with different TTT-data (TRC1 and TRC2) and a 'layer' in the geometry for the carburized surface. 
+Further refinements/complications may be: adding the heating of the specimen to the simulation (squeeze in an additional first stage@beginning), this is especially useful when the part has different wall thicknesses. For a case hardening steel we'd need two materials with different TTT-data (TRC1 and TRC2) and a 'layer' in the geometry for the carburized surface. 
